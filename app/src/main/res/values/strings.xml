@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">VanzareApartamente.md</string>
+    <string-array name="filter_options">
+        <item>По возрастанию цены</item>
+        <item>По убыванию цены</item>
+    </string-array>
+    <string name="login">Войти</string>
+    <string name="register">Регистрация</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Пароль</string>
+    <string name="logout">Выйти</string>
+    <string name="add_apartment">Добавить</string>
+    <string name="apartament_location"> %1$d </string>
+    <string name="apartment_price_icon">%1$d$</string>
+    <string name="apartment_price">%1$s %2$s$</string>
+    <string name="editButton">Редактировать</string>
+    <string name="deleteButton">Удалить</string>
+</resources>
